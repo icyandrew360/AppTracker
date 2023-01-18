@@ -1,0 +1,15 @@
+.AppData{
+    display: flex;
+    align-items: center;
+    padding-left: 40px;
+    padding-right: 40px;
+}
+
+.AppData--status{
+    margin-left: auto;
+}
+
+.AppData--date{
+    position: absolute;
+    left: calc(50% - 55px)
+}
